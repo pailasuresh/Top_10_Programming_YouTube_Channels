@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.li-element {
+  text-align: left;
+  border: 1px solid black;
+  border-radius: 9px;
+  margin: 16px;
+  padding: 14px;
+}
+a {
+  padding-left: 22px;
+}
